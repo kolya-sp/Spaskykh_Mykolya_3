@@ -1,0 +1,11 @@
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\bin\Debug\netcoreapp3.0\lab_3_2_core.exe
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\bin\Debug\netcoreapp3.0\lab_3_2_core.deps.json
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\bin\Debug\netcoreapp3.0\lab_3_2_core.runtimeconfig.json
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\bin\Debug\netcoreapp3.0\lab_3_2_core.runtimeconfig.dev.json
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\bin\Debug\netcoreapp3.0\lab_3_2_core.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\bin\Debug\netcoreapp3.0\lab_3_2_core.pdb
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\obj\Debug\netcoreapp3.0\lab_3_2_core.csprojAssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\obj\Debug\netcoreapp3.0\lab_3_2_core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\obj\Debug\netcoreapp3.0\lab_3_2_core.AssemblyInfo.cs
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\obj\Debug\netcoreapp3.0\lab_3_2_core.dll
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_2_core\obj\Debug\netcoreapp3.0\lab_3_2_core.pdb

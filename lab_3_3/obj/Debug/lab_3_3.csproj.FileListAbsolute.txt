@@ -1,0 +1,6 @@
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_3\bin\Debug\lab_3_3.exe.config
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_3\bin\Debug\lab_3_3.exe
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_3\bin\Debug\lab_3_3.pdb
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_3\obj\Debug\lab_3_3.csprojAssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_3\obj\Debug\lab_3_3.exe
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\lab_3_3\obj\Debug\lab_3_3.pdb
